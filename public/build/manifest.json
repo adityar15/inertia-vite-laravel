@@ -1,0 +1,23 @@
+{
+  "resources/js/app.js": {
+    "file": "assets/app.bc09b4ba.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/Pages/App.vue"
+    ]
+  },
+  "resources/js/Pages/App.vue": {
+    "file": "assets/App.4bf12f97.js",
+    "src": "resources/js/Pages/App.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/css/app.css": {
+    "file": "assets/app.40e6b6d9.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  }
+}
